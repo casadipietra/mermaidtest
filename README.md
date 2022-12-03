@@ -2,7 +2,7 @@
 
 
 
-* exemple de code :
+``` exemple de code :
 ```
 ```mermaid
 flowchart LR
